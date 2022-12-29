@@ -39,13 +39,13 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo?</br>
 You can see my demo clicking in the button called "DEMO" below the tittle of the readme archive!
-- What was your experience?
+- What was your experience?</br>
 Was a great experience, I had never think about create a 404 error page and I with this challenge I made it 
-- What have you learned/improved?
+- What have you learned/improved?</br>
 Well, I refresh my knowledge in html and css, I improved my skills creating responsive pages and learned how to make responsive text
-- Your wisdom? :)
+- Your wisdom? :)</br>
 Now I know how to use clamp() for make responsive pages!
 ### Built With
 

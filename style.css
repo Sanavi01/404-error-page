@@ -70,3 +70,15 @@ aside{
     font-size: 14px;
     margin: 23px 42px;
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+    color: #BDBDBD;
+   
+}
+
+footer a {
+    font-weight: bold;
+    color: #a09f9f;
+}
