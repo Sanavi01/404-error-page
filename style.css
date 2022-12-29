@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Space+Mono&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+}
+body{
+    background-color: white;
+    padding: 30px 40px;
+    height: 100%;
+}
+
+header h2{
+    font-family: 'Inconsolata', monospace;
+
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+    flex-wrap: wrap;
+}
+
+aside{
+    width: 50%; 
+    min-width: 350px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.scarecrow-img{
+ 
+    width: clamp(283px, 100%, 650px);
+   
+}
+
+
+
+.info h1{
+    font-size: clamp(48px, 5vw, 64px);
+    font-weight: 700;
+    font-family: 'Space Mono' , monospace;
+    padding-bottom: 20px;
+    max-width: 700px;
+}
+
+.info p{
+    font-family: 'Space Mono' , monospace;
+    line-height: 2rem;
+    font-weight: 400;
+    font-size: clamp(18px, 2vw, 24px);
+    
+
+}
+
+.info button{
+    background-color: black;
+    color: white;
+    font-family: 'Space Mono' , monospace;
+    margin-top:  30px;
+
+    
+    
+}
+
+.info button p {
+    text-align:center;
+    font-size: 14px;
+    margin: 23px 42px;
+}
